@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Ihor Popkov</Authors>
+    <Company>OrionikUA</Company>
+    <Product>UrlCreator</Product>
+    <RepositoryUrl>https://github.com/OrionikUA/net-UrlCreator</RepositoryUrl>
+    <PackageTags>url</PackageTags>
   </PropertyGroup>
 
 </Project>
